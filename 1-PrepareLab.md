@@ -338,12 +338,12 @@ Client: v2.14.2+ga8b13cc
 
 Login to IBM Cloud with the ibmcloud command :
 
- `ibmcloud login -a cloud.ibm.com -r us-south -g default`
+ `ibmcloud login -a cloud.ibm.com -r us-south -g Default`
 
  And answer a few questions: email, password :
 
 ```bash
-# ibmcloud login -a cloud.ibm.com -r us-south -g default
+# ibmcloud login -a cloud.ibm.com -r us-south -g Default
 API endpoint: https://cloud.ibm.com
 Region: us-south
 
